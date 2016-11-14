@@ -1,2 +1,0 @@
-#!/bin/bash
- date >> ${JBOSS_HOME}/ticktock.log
